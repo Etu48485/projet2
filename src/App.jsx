@@ -19,7 +19,7 @@ function App() {
   },
   {
 	path:'second',
-	element:<secondPage/>
+	element:<SecondPage/>
 	}
 
 ])
